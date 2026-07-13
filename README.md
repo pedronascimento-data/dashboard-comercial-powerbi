@@ -1,2 +1,7 @@
-# dashboard-comercial-powerbi
-Dashboard executivo desenvolvido em Power BI para análise de desempenho comercial.
+dashboard-comercial-powerbi/
+│
+├── README.md
+├── dashboard/
+├── imagens/
+├── dados/
+└── docs/
